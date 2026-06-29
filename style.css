@@ -7,6 +7,11 @@ form{
     border: 3px solid navy;
     padding: 20px;
 }
+.logo{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
 h2 {
     text-align: center;
     color: darkgreen;
@@ -15,7 +20,7 @@ label{
     font-weight: bold;
     
 }
-input{
+.text-input{
     width: 100%;
     padding: 10px;
 }
